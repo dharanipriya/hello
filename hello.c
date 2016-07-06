@@ -6,7 +6,7 @@ int i;
 clrscr();
 for(i=0;i<=5;i++)
 {
-pruntf("\n HELLO");
+printf("\n HELLO");
 }
 getch();
 }
